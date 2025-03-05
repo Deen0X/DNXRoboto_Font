@@ -9,17 +9,21 @@ The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
 # Unicodes
 
-Left and Right Analog Sticks
+## Left and Right Analog Sticks
+
 ![image](https://github.com/user-attachments/assets/651fabd4-0e98-42fc-9980-4bc273dd1e04)
 
 
-DPAD
+## DPAD
+
 ![image](https://github.com/user-attachments/assets/91f18cfc-2610-42ed-be1c-51e36468f680)
 
 
-Buttons
+## Buttons
+
 ![image](https://github.com/user-attachments/assets/a77f166b-f6ef-486c-a787-e18efc0cb879)
 
 
-Face Buttons Combinations
+## Face Buttons Combinations
+
 ![image](https://github.com/user-attachments/assets/d2f26553-111c-4e02-9750-4a2591925857)
