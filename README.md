@@ -26,4 +26,5 @@ The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
 ## Face Buttons Combinations
 
-![image](https://github.com/user-attachments/assets/d2f26553-111c-4e02-9750-4a2591925857)
+![image](https://github.com/user-attachments/assets/b2846359-1427-443b-9c0a-f16496577665)
+
