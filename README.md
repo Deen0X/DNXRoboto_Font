@@ -7,6 +7,8 @@ I decided to modify the original ROBOTO font, adding some glyphs for representin
 These glyphs are assigned to slots without standard spanish/english characters.
 The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
+I used the [FontForge](https://fontforge.org/en-US/) tool for edit the source font and creating the new glyph set.
+
 # Unicodes
 
 ## Left and Right Analog Sticks
