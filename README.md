@@ -7,20 +7,19 @@ I decided to modify the original ROBOTO font, adding some glyphs for representin
 These glyphs are assigned to slots without standard spanish/english characters.
 The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
-Left Stick:
-Unicodes:
+# Unicodes
 
-![image](https://github.com/user-attachments/assets/c599980c-fd00-4ea7-9faf-8c70324df85f)
+Left and Right Analog Sticks
+![image](https://github.com/user-attachments/assets/651fabd4-0e98-42fc-9980-4bc273dd1e04)
 
 
-Unicode	Left Stick
-017F	ſ
-0180	ƀ
-0181	Ɓ
-0182	Ƃ
-0183	ƃ
-0184	Ƅ
-0185	ƅ
-0186	Ɔ
-0187	Ƈ
-![image](https://github.com/user-attachments/assets/0986a269-cf1b-436a-ac62-b82f01d6b6ab)
+DPAD
+![image](https://github.com/user-attachments/assets/91f18cfc-2610-42ed-be1c-51e36468f680)
+
+
+Buttons
+![image](https://github.com/user-attachments/assets/a77f166b-f6ef-486c-a787-e18efc0cb879)
+
+
+Face Buttons Combinations
+![image](https://github.com/user-attachments/assets/d2f26553-111c-4e02-9750-4a2591925857)
