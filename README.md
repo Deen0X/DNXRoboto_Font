@@ -51,6 +51,13 @@ Most of this set is used as template for other glyphs.
 ![image](https://github.com/user-attachments/assets/b3367e28-ccae-4769-accd-a557a62b334a)
 
 
+## Space Invaders
+
+Space Invaders Themed glyps... Why not?
+
+![image](https://github.com/user-attachments/assets/a0a5652c-123b-4681-b318-eb82144ec366)
+
+
 ## Maze Ascii
 
 This is for creating basic maze diagrams.
@@ -58,8 +65,7 @@ This is for creating basic maze diagrams.
 ![image](https://github.com/user-attachments/assets/ba3d2167-f8b2-42b9-9191-e9c338ba5f2a)
 
 
-## Space Invaders
+Example using Maze Ascii
 
-Space Invaders Themed glyps... Why not?
+![image](https://github.com/user-attachments/assets/d77c9687-ec26-4609-bd3a-35e470bc6d3f)
 
-![image](https://github.com/user-attachments/assets/a0a5652c-123b-4681-b318-eb82144ec366)
