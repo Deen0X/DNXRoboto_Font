@@ -9,43 +9,57 @@ The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
 I used the [FontForge](https://fontforge.org/en-US/) tool for edit the source font and creating the new glyph set.
 
+# Update 4.4
+
+I decided to re-create the font from scratch, taking again the Roboto font as base, and using PUA (Private Use Area, starting from E000) for encoding the new glyphs. This way i did not touch any of the original glyphs.
+
+Now the glyphs are divided into groups, for better usage and maintenance.
+
 # Unicodes
 
-## Left and Right Analog Sticks
+Now, start from E000 for special glyphs used as base for another glyphs.
 
-![image](https://github.com/user-attachments/assets/651fabd4-0e98-42fc-9980-4bc273dd1e04)
+## Normal Controls
 
+Normal controls																												
 
-## DPAD
+![image](https://github.com/user-attachments/assets/527babf7-ded1-49fb-9bec-cc5540864565)
 
-![image](https://github.com/user-attachments/assets/91f18cfc-2610-42ed-be1c-51e36468f680)
+## HOLD Controls
 
+This is the same schemma than Normal Controls, but meaning the controls are in HOLD state.
 
-## Buttons
-
-![image](https://github.com/user-attachments/assets/a77f166b-f6ef-486c-a787-e18efc0cb879)
-
-
-## Face Buttons Combinations
-
-![image](https://github.com/user-attachments/assets/b2846359-1427-443b-9c0a-f16496577665)
+![image](https://github.com/user-attachments/assets/8c70d4a0-ae1f-48f1-8fe5-b26f1075136d)
 
 
-## Arrows
+## Variant 1, Normal Controls
 
-![image](https://github.com/user-attachments/assets/ca43c4e2-3318-4066-b7a0-7682fdc44e7e)
+This variant bring new looking for some controls, and include Sony nomenclature.
 
-
-## Mouse
-
-![image](https://github.com/user-attachments/assets/39276e03-91f2-4bbb-af5f-78b7158d528d)
+![image](https://github.com/user-attachments/assets/bb5fc108-1588-4595-9b51-cf4374806b99)
 
 
-## New Stick Glyphs
+## Variant 1, HOLD Controls
 
-![image](https://github.com/user-attachments/assets/de99340a-6681-4e4d-af6a-12e0592fa0a6)
+![image](https://github.com/user-attachments/assets/86817805-7383-48aa-a9c5-a6c46cd871be)
 
 
-## Special
+## Special Characters
 
-![image](https://github.com/user-attachments/assets/0d7d8822-ea25-4edc-bc80-175972bd4294)
+Most of this set is used as template for other glyphs.
+
+![image](https://github.com/user-attachments/assets/b3367e28-ccae-4769-accd-a557a62b334a)
+
+
+## Maze Ascii
+
+This is for creating basic maze diagrams.
+
+![image](https://github.com/user-attachments/assets/ba3d2167-f8b2-42b9-9191-e9c338ba5f2a)
+
+
+## Space Invaders
+
+Space Invaders Themed glyps... Why not?
+
+![image](https://github.com/user-attachments/assets/a0a5652c-123b-4681-b318-eb82144ec366)
