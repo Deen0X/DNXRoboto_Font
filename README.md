@@ -9,11 +9,15 @@ The rest of the glyphs are untouched so you can use this a standard Roboto font.
 
 I used the [FontForge](https://fontforge.org/en-US/) tool for edit the source font and creating the new glyph set.
 
-# Update 4.4
+# Update 4.4.1
 
-I decided to re-create the font from scratch, taking again the Roboto font as base, and using PUA (Private Use Area, starting from E000) for encoding the new glyphs. This way i did not touch any of the original glyphs.
+Fonts recreated from scratch, taking again the Roboto font as base, and using PUA (Private Use Area, starting from E000) for encoding the new glyphs. This way i did not touch any of the original glyphs.
 
 Now the glyphs are divided into groups, for better usage and maintenance.
+
+Some minor bugs fixed
+
+Added miscelaneous glyphs related to gaming.
 
 # Unicodes
 
