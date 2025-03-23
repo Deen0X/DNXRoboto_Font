@@ -36,16 +36,11 @@ This is the same schemma than Normal Controls, but meaning the controls are in H
 ![image](https://github.com/user-attachments/assets/8c70d4a0-ae1f-48f1-8fe5-b26f1075136d)
 
 
-## Variant 1, Normal Controls
+## Variant 1, Normal and HOLD Controls
 
 This variant bring new looking for some controls, and include Sony nomenclature.
 
 ![image](https://github.com/user-attachments/assets/bb5fc108-1588-4595-9b51-cf4374806b99)
-
-
-## Variant 1, HOLD Controls
-
-![image](https://github.com/user-attachments/assets/86817805-7383-48aa-a9c5-a6c46cd871be)
 
 
 ## Special Characters
