@@ -61,7 +61,7 @@ Space Invaders Themed glyps... Why not?
 
 This is for creating basic maze diagrams, for output in console (for example), or even for print.
 
-![image](https://github.com/user-attachments/assets/ba3d2167-f8b2-42b9-9191-e9c338ba5f2a)
+![image](https://github.com/user-attachments/assets/ae6af292-0129-4caf-8252-bc0959507f33)
 
 
 Example using Maze Ascii
