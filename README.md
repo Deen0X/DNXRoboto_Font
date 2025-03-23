@@ -54,7 +54,7 @@ Most of this set is used as template for other glyphs.
 
 Space Invaders Themed glyps... Why not?
 
-![image](https://github.com/user-attachments/assets/a0a5652c-123b-4681-b318-eb82144ec366)
+![image](https://github.com/user-attachments/assets/d6057db5-99b2-41c7-aa40-1b87e0b21e6d)
 
 
 ## Maze Ascii
